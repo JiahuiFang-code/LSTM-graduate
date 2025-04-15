@@ -96,3 +96,4 @@ plt.show()
 # plt.show()
 err=mean_squared_error(Y_test_pre[0,:],Y_test[0,:])
 print('测试集mse',err)
+# no use
